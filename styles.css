@@ -1,0 +1,38 @@
+.header {
+	width: 100%;
+	background-color: rgba(19, 48, 238, .75);
+	height: 50px;
+	margin-bottom: 20px;
+	margin-top: -22px;
+}
+
+
+h1 {
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.main {
+	background-color: rgba(15, 232, 210, 0.5);
+	border: 3px solid red;
+}
+
+ td {
+	padding-left: 90px;
+}
+
+thead th {
+	padding-left: 90px;
+}
+
+.last {
+	text-align: center;
+	line-height: 1.4;
+}
+
+th[scope="row"] {
+	text-align: left;
+}
+
+
